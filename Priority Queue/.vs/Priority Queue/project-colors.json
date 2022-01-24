@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f43592b-7cfe-4472-82e9-9d7494a909fe": {
+      "ProjectGuid": "3f43592b-7cfe-4472-82e9-9d7494a909fe",
+      "DisplayName": "Priority Queue",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
